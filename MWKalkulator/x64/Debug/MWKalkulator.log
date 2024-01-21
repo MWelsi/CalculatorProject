@@ -1,0 +1,8 @@
+﻿  main1.cpp
+C:\Users\mikol\source\repos\MWKalkulator\MWKalkulator\main1.cpp(68,74): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mikol\source\repos\MWKalkulator\MWKalkulator\main1.cpp(74,98): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mikol\source\repos\MWKalkulator\MWKalkulator\main1.cpp(103,74): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mikol\source\repos\MWKalkulator\MWKalkulator\main1.cpp(107,98): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mikol\source\repos\MWKalkulator\MWKalkulator\main1.cpp(135,74): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mikol\source\repos\MWKalkulator\MWKalkulator\main1.cpp(139,98): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  MWKalkulator.vcxproj -> C:\Users\mikol\source\repos\MWKalkulator\x64\Debug\MWKalkulator.exe

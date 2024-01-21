@@ -1,0 +1,5 @@
+C:/Users/mikol/source/repos/MWKalkulator/out/build/x64-release/CMakeFiles/edit_cache.dir
+C:/Users/mikol/source/repos/MWKalkulator/out/build/x64-release/CMakeFiles/rebuild_cache.dir
+C:/Users/mikol/source/repos/MWKalkulator/out/build/x64-release/CMAKE/CMakeFiles/CMAKE.dir
+C:/Users/mikol/source/repos/MWKalkulator/out/build/x64-release/CMAKE/CMakeFiles/edit_cache.dir
+C:/Users/mikol/source/repos/MWKalkulator/out/build/x64-release/CMAKE/CMakeFiles/rebuild_cache.dir

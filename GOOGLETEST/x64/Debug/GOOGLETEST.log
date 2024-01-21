@@ -1,0 +1,2 @@
+﻿test.obj : error LNK2019: nierozpoznany symbol zewnętrzny "bool __cdecl runCalculatorMenu(void)" (?runCalculatorMenu@@YA_NXZ) przywołany w funkcji main
+C:\Users\mikol\source\repos\MWKalkulator\x64\Debug\GOOGLETEST.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1

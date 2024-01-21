@@ -1,0 +1,3 @@
+C:/Users/mikol/source/repos/MWKalkulator/out/build/x86-debug/CMakeFiles/CMakeScratch/TryCompile-qnv4ie/CMakeFiles/cmTC_1884a.dir
+C:/Users/mikol/source/repos/MWKalkulator/out/build/x86-debug/CMakeFiles/CMakeScratch/TryCompile-qnv4ie/CMakeFiles/edit_cache.dir
+C:/Users/mikol/source/repos/MWKalkulator/out/build/x86-debug/CMakeFiles/CMakeScratch/TryCompile-qnv4ie/CMakeFiles/rebuild_cache.dir
